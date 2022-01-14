@@ -5,11 +5,11 @@
 The first step in running this project is to run `npm install`.
 Then run various nodes using `npm run node_1`, `npm run node_2`, `npm run node_3`, `npm run node_4`, `npm run node_5`
 
-## Course Content
+## Content
 
-In this course you will build out your very own **blockchain** and **decentralized blockchain network** using the javascript programming language.
+Building out your very own **blockchain** and **decentralized blockchain network** using the javascript programming language.
 
-In this course you will learn all of the following concepts and your blockchain will have all of the following features:
+Blockchain will have all of the following features:
 
 - A **proof of work** algorithm to secure the network.
 - **Hashing algorithms** to secure the data within the blockchain.
